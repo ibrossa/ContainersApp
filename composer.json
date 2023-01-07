@@ -1,0 +1,19 @@
+{
+    "name": "ibrossa/containers-app",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ibrossa",
+            "email": "ibrossa@gmail.com"
+        }
+    ]
+}
